@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Complete Web Development by Jhankar Mahbub\\LEVEL 2\\Full Stack Path\\Milestone 9\\HealthCare-Server-main\\logs\\winston\\errors\\.59644408ef7f368e046a1f2ed0cb2ab8575b22c6-audit.json",
+    "files": [
+        {
+            "date": 1714500438038,
+            "name": "D:\\Complete Web Development by Jhankar Mahbub\\LEVEL 2\\Full Stack Path\\Milestone 9\\HealthCare-Server-main\\logs\\winston\\errors\\phu-2024-01-05-00-error.log",
+            "hash": "6494aaf7796af4ab4501220afa68e1ce3639c2608e04ba1a2a7f25328672374a"
+        },
+        {
+            "date": 1714506546776,
+            "name": "D:\\Complete Web Development by Jhankar Mahbub\\LEVEL 2\\Full Stack Path\\Milestone 9\\HealthCare-Server-main\\logs\\winston\\errors\\phu-2024-01-05-01-error.log",
+            "hash": "fa5fd8979ebaffa4d3cda2109a74e513ebaf374a614f1aa5636e18c3c76f9046"
+        },
+        {
+            "date": 1714508076855,
+            "name": "D:\\Complete Web Development by Jhankar Mahbub\\LEVEL 2\\Full Stack Path\\Milestone 9\\HealthCare-Server-main\\logs\\winston\\errors\\phu-2024-01-05-02-error.log",
+            "hash": "6c9e8adac8ca1635d51cca2bd4b9faece44cb02d718e18017a59ef87dc546604"
+        },
+        {
+            "date": 1714547192056,
+            "name": "D:\\Complete Web Development by Jhankar Mahbub\\LEVEL 2\\Full Stack Path\\Milestone 9\\HealthCare-Server-main\\logs\\winston\\errors\\phu-2024-01-05-13-error.log",
+            "hash": "e3334b8d3e231d3ffbde180ae427d7414a51afda7ba3b7fe9ef01799a270d125"
+        }
+    ],
+    "hashType": "sha256"
+}
